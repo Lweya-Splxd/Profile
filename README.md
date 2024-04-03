@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently trying to learn C<br>I'm Looking for someone to teach me C<br>I'm currently learning Python and Javascript<br>On twitter @splxxd Instagram @splxxd_._<br>The lied to us C is hard
+I'm currently trying to learn Javascript at app academy<br>Self paced <br>I'm currently learning Html an CSS<br>On twitter @splxxd Instagram @splxxd_._<br>The lied to us C is hard
 
 
 ## 🌐 Socials:
